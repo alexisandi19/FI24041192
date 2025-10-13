@@ -23,8 +23,6 @@ Utilice ChatGPT como herramienta para ayudarme a resolver distintos problemas de
 **Respuesta de la IA:** El error se debía a que el archivo tenía la línea package Practicas.PP2; y se debía ejecutar usando el nombre completo del paquete:
 java Practicas.PP2.Revert
 
-## La respuesta a las siguientes preguntas:
-
 ## ¿Cree que exista otra forma de efectuar la inversión del contenido de un archivo sin necesitad de usar una pila? Si sí, indique cómo (sin necesidad de código).
 
 Se podria leer el contenido del archivo en una lista o arreglo para luego recorrerla desde el final hacia el inicio para escribir un nuevo archivo invertido
