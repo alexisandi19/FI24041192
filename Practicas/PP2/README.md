@@ -5,14 +5,14 @@
                    
 ## El IDE o editor utilizado: 
 
-Visual Studio Code
-Lenguaje: Java
+-Visual Studio Code
+-Lenguaje: Java
 
 ## Páginas web donde halló posibles soluciones a problemas encontrados o Snippets de código:
 
-https://stackoverflow.com/
-https://www.w3schools.com/java/java_files_read.asp
-https://www.geeksforgeeks.org/stack-class-in-java/
+-https://stackoverflow.com/
+-https://www.w3schools.com/java/java_files_read.asp
+-https://www.geeksforgeeks.org/stack-class-in-java/
 
 ## Prompts (consultas y respuestas) de los chatbots de IA (Copilot, Gemini, ChatGPT, etc.) que haya utilizado.
 
@@ -33,10 +33,10 @@ Puede ser una pila de libros, ya que si colocamos una pila de libros uno sobre o
 
 ## Estructura del repositorio:
 
-IF24041192/
-└── PP2/
-├── Revert.java
-├── README.md
-├── input.txt
-└── output.txt
+-IF24041192/
+-└── PP2/
+-├── Revert.java
+-├── README.md
+-├── input.txt
+-└── output.txt
 
