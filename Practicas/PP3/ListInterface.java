@@ -5,5 +5,5 @@ public interface ListInterface<E> {
     void addLast(E data);
     E removeFirst();
     E removeLast();
-    // Otros métodos ya definidos por el profe, que ya funcionan.
+    
 }
